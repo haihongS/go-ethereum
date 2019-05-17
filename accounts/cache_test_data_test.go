@@ -1,7 +1,7 @@
 package accounts
 
 import (
-	"github.com/ethereumproject/go-ethereum/common"
+	"github.com/haihongs/go-ethereum/common"
 	"path/filepath"
 )
 

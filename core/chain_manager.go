@@ -20,12 +20,12 @@ import (
 	"fmt"
 	"math/big"
 
-	"github.com/ethereumproject/go-ethereum/common"
-	"github.com/ethereumproject/go-ethereum/core/state"
-	"github.com/ethereumproject/go-ethereum/core/types"
-	"github.com/ethereumproject/go-ethereum/ethdb"
-	"github.com/ethereumproject/go-ethereum/event"
-	"github.com/ethereumproject/go-ethereum/pow"
+	"github.com/haihongs/go-ethereum/common"
+	"github.com/haihongs/go-ethereum/core/state"
+	"github.com/haihongs/go-ethereum/core/types"
+	"github.com/haihongs/go-ethereum/ethdb"
+	"github.com/haihongs/go-ethereum/event"
+	"github.com/haihongs/go-ethereum/pow"
 )
 
 /*

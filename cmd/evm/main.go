@@ -28,14 +28,14 @@ import (
 
 	"gopkg.in/urfave/cli.v1"
 
-	"github.com/ethereumproject/go-ethereum/common"
-	"github.com/ethereumproject/go-ethereum/core"
-	"github.com/ethereumproject/go-ethereum/core/state"
-	"github.com/ethereumproject/go-ethereum/core/types"
-	"github.com/ethereumproject/go-ethereum/core/vm"
-	"github.com/ethereumproject/go-ethereum/crypto"
-	"github.com/ethereumproject/go-ethereum/ethdb"
-	"github.com/ethereumproject/go-ethereum/logger/glog"
+	"github.com/haihongs/go-ethereum/common"
+	"github.com/haihongs/go-ethereum/core"
+	"github.com/haihongs/go-ethereum/core/state"
+	"github.com/haihongs/go-ethereum/core/types"
+	"github.com/haihongs/go-ethereum/core/vm"
+	"github.com/haihongs/go-ethereum/crypto"
+	"github.com/haihongs/go-ethereum/ethdb"
+	"github.com/haihongs/go-ethereum/logger/glog"
 )
 
 // Version is the application revision identifier. It can be set with the linker

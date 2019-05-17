@@ -19,8 +19,8 @@ package vm
 import (
 	"math/big"
 
-	"github.com/ethereumproject/go-ethereum/common"
-	"github.com/ethereumproject/go-ethereum/crypto"
+	"github.com/haihongs/go-ethereum/common"
+	"github.com/haihongs/go-ethereum/crypto"
 )
 
 var callStipend = big.NewInt(2300) // Free gas given at beginning of call.

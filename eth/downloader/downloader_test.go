@@ -27,14 +27,14 @@ import (
 	"testing"
 	"time"
 
-	"github.com/ethereumproject/go-ethereum/common"
-	"github.com/ethereumproject/go-ethereum/core"
-	"github.com/ethereumproject/go-ethereum/core/types"
-	"github.com/ethereumproject/go-ethereum/crypto"
-	"github.com/ethereumproject/go-ethereum/ethdb"
-	"github.com/ethereumproject/go-ethereum/event"
-	"github.com/ethereumproject/go-ethereum/logger/glog"
-	"github.com/ethereumproject/go-ethereum/trie"
+	"github.com/haihongs/go-ethereum/common"
+	"github.com/haihongs/go-ethereum/core"
+	"github.com/haihongs/go-ethereum/core/types"
+	"github.com/haihongs/go-ethereum/crypto"
+	"github.com/haihongs/go-ethereum/ethdb"
+	"github.com/haihongs/go-ethereum/event"
+	"github.com/haihongs/go-ethereum/logger/glog"
+	"github.com/haihongs/go-ethereum/trie"
 )
 
 var (

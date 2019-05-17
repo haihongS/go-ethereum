@@ -20,10 +20,10 @@ import (
 	"bytes"
 	"fmt"
 
-	"github.com/ethereumproject/go-ethereum/common"
-	"github.com/ethereumproject/go-ethereum/crypto"
-	"github.com/ethereumproject/go-ethereum/logger/glog"
-	"github.com/ethereumproject/go-ethereum/rlp"
+	"github.com/haihongs/go-ethereum/common"
+	"github.com/haihongs/go-ethereum/crypto"
+	"github.com/haihongs/go-ethereum/logger/glog"
+	"github.com/haihongs/go-ethereum/rlp"
 )
 
 // Prove constructs a merkle proof for key. The result contains all

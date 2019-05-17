@@ -31,9 +31,9 @@ import (
 
 	"time"
 
-	"github.com/ethereumproject/go-ethereum/common"
-	"github.com/ethereumproject/go-ethereum/crypto"
-	"github.com/ethereumproject/go-ethereum/crypto/secp256k1"
+	"github.com/haihongs/go-ethereum/common"
+	"github.com/haihongs/go-ethereum/crypto"
+	"github.com/haihongs/go-ethereum/crypto/secp256k1"
 )
 
 const nodeIDBits = 512

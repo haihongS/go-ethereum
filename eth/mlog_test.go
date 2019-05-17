@@ -2,8 +2,8 @@ package eth
 
 import (
 	"bytes"
-	"github.com/ethereumproject/go-ethereum/core/types"
-	"github.com/ethereumproject/go-ethereum/logger"
+	"github.com/haihongs/go-ethereum/core/types"
+	"github.com/haihongs/go-ethereum/logger"
 	"strings"
 	"testing"
 )

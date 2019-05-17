@@ -20,10 +20,10 @@ import (
 	"fmt"
 	"math/big"
 
-	"github.com/ethereumproject/go-ethereum/common"
-	"github.com/ethereumproject/go-ethereum/core/vm"
-	"github.com/ethereumproject/go-ethereum/logger"
-	"github.com/ethereumproject/go-ethereum/logger/glog"
+	"github.com/haihongs/go-ethereum/common"
+	"github.com/haihongs/go-ethereum/core/vm"
+	"github.com/haihongs/go-ethereum/logger"
+	"github.com/haihongs/go-ethereum/logger/glog"
 )
 
 var (

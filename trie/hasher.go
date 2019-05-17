@@ -21,9 +21,9 @@ import (
 	"hash"
 	"sync"
 
-	"github.com/ethereumproject/go-ethereum/common"
-	"github.com/ethereumproject/go-ethereum/crypto/sha3"
-	"github.com/ethereumproject/go-ethereum/rlp"
+	"github.com/haihongs/go-ethereum/common"
+	"github.com/haihongs/go-ethereum/crypto/sha3"
+	"github.com/haihongs/go-ethereum/rlp"
 )
 
 // calculator is a utility used by the hasher to calculate the hash value of the tree node.

@@ -20,8 +20,8 @@ import (
 	"fmt"
 	"math/big"
 
-	"github.com/ethereumproject/go-ethereum/common"
-	"github.com/ethereumproject/go-ethereum/core/vm"
+	"github.com/haihongs/go-ethereum/common"
+	"github.com/haihongs/go-ethereum/core/vm"
 )
 
 func Disassemble(script []byte) (asm []string) {

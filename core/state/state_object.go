@@ -22,12 +22,12 @@ import (
 	"io"
 	"math/big"
 
-	"github.com/ethereumproject/go-ethereum/common"
-	"github.com/ethereumproject/go-ethereum/crypto"
-	"github.com/ethereumproject/go-ethereum/logger"
-	"github.com/ethereumproject/go-ethereum/logger/glog"
-	"github.com/ethereumproject/go-ethereum/rlp"
-	"github.com/ethereumproject/go-ethereum/trie"
+	"github.com/haihongs/go-ethereum/common"
+	"github.com/haihongs/go-ethereum/crypto"
+	"github.com/haihongs/go-ethereum/logger"
+	"github.com/haihongs/go-ethereum/logger/glog"
+	"github.com/haihongs/go-ethereum/rlp"
+	"github.com/haihongs/go-ethereum/trie"
 )
 
 var emptyCodeHash = crypto.Keccak256(nil)

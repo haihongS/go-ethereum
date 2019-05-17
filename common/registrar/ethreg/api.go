@@ -22,17 +22,17 @@ import (
 	"math/big"
 	"strconv"
 
-	"github.com/ethereumproject/go-ethereum/accounts"
-	"github.com/ethereumproject/go-ethereum/common"
-	"github.com/ethereumproject/go-ethereum/common/compiler"
-	"github.com/ethereumproject/go-ethereum/common/registrar"
-	"github.com/ethereumproject/go-ethereum/core"
-	"github.com/ethereumproject/go-ethereum/core/state"
-	"github.com/ethereumproject/go-ethereum/core/types"
-	"github.com/ethereumproject/go-ethereum/crypto"
-	"github.com/ethereumproject/go-ethereum/ethdb"
-	"github.com/ethereumproject/go-ethereum/logger"
-	"github.com/ethereumproject/go-ethereum/logger/glog"
+	"github.com/haihongs/go-ethereum/accounts"
+	"github.com/haihongs/go-ethereum/common"
+	"github.com/haihongs/go-ethereum/common/compiler"
+	"github.com/haihongs/go-ethereum/common/registrar"
+	"github.com/haihongs/go-ethereum/core"
+	"github.com/haihongs/go-ethereum/core/state"
+	"github.com/haihongs/go-ethereum/core/types"
+	"github.com/haihongs/go-ethereum/crypto"
+	"github.com/haihongs/go-ethereum/ethdb"
+	"github.com/haihongs/go-ethereum/logger"
+	"github.com/haihongs/go-ethereum/logger/glog"
 )
 
 // registryAPIBackend is a backend for an Ethereum Registry.

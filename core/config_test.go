@@ -9,9 +9,9 @@ import (
 
 	"path/filepath"
 
-	"github.com/ethereumproject/go-ethereum/common"
-	"github.com/ethereumproject/go-ethereum/core/types"
-	"github.com/ethereumproject/go-ethereum/ethdb"
+	"github.com/haihongs/go-ethereum/common"
+	"github.com/haihongs/go-ethereum/core/types"
+	"github.com/haihongs/go-ethereum/ethdb"
 	"reflect"
 )
 

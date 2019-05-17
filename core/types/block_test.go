@@ -22,8 +22,8 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/ethereumproject/go-ethereum/common"
-	"github.com/ethereumproject/go-ethereum/rlp"
+	"github.com/haihongs/go-ethereum/common"
+	"github.com/haihongs/go-ethereum/rlp"
 )
 
 // from bcValidBlockTest.json, "SimpleTx"

@@ -42,7 +42,7 @@ import (
 	"fmt"
 	"hash"
 
-	"github.com/ethereumproject/go-ethereum/crypto/secp256k1"
+	"github.com/haihongs/go-ethereum/crypto/secp256k1"
 )
 
 var (

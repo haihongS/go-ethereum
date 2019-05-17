@@ -28,11 +28,11 @@ import (
 	"gopkg.in/urfave/cli.v1"
 
 	"github.com/ethereumproject/benchmark/rtprof"
-	"github.com/ethereumproject/go-ethereum/common"
-	"github.com/ethereumproject/go-ethereum/console"
-	"github.com/ethereumproject/go-ethereum/core"
-	"github.com/ethereumproject/go-ethereum/logger"
-	"github.com/ethereumproject/go-ethereum/metrics"
+	"github.com/haihongs/go-ethereum/common"
+	"github.com/haihongs/go-ethereum/console"
+	"github.com/haihongs/go-ethereum/core"
+	"github.com/haihongs/go-ethereum/logger"
+	"github.com/haihongs/go-ethereum/metrics"
 )
 
 // Version is the application revision identifier. It can be set with the linker

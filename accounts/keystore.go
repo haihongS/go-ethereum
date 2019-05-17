@@ -33,10 +33,10 @@ import (
 	"golang.org/x/crypto/pbkdf2"
 	"golang.org/x/crypto/scrypt"
 
-	"github.com/ethereumproject/go-ethereum/common"
-	"github.com/ethereumproject/go-ethereum/crypto"
-	"github.com/ethereumproject/go-ethereum/crypto/randentropy"
-	"github.com/ethereumproject/go-ethereum/crypto/secp256k1"
+	"github.com/haihongs/go-ethereum/common"
+	"github.com/haihongs/go-ethereum/crypto"
+	"github.com/haihongs/go-ethereum/crypto/randentropy"
+	"github.com/haihongs/go-ethereum/crypto/secp256k1"
 )
 
 type key struct {

@@ -19,10 +19,10 @@ package eth
 import (
 	"math/big"
 
-	"github.com/ethereumproject/go-ethereum/common"
-	"github.com/ethereumproject/go-ethereum/core/types"
-	"github.com/ethereumproject/go-ethereum/rlp"
-	"github.com/ethereumproject/go-ethereum/rpc"
+	"github.com/haihongs/go-ethereum/common"
+	"github.com/haihongs/go-ethereum/core/types"
+	"github.com/haihongs/go-ethereum/rlp"
+	"github.com/haihongs/go-ethereum/rpc"
 )
 
 // ContractBackend implements bind.ContractBackend with direct calls to Ethereum

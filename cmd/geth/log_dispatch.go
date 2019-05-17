@@ -7,12 +7,12 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/ethereumproject/go-ethereum/core"
-	"github.com/ethereumproject/go-ethereum/eth"
-	"github.com/ethereumproject/go-ethereum/eth/downloader"
-	"github.com/ethereumproject/go-ethereum/eth/fetcher"
-	"github.com/ethereumproject/go-ethereum/event"
-	"github.com/ethereumproject/go-ethereum/logger/glog"
+	"github.com/haihongs/go-ethereum/core"
+	"github.com/haihongs/go-ethereum/eth"
+	"github.com/haihongs/go-ethereum/eth/downloader"
+	"github.com/haihongs/go-ethereum/eth/fetcher"
+	"github.com/haihongs/go-ethereum/event"
+	"github.com/haihongs/go-ethereum/logger/glog"
 	"gopkg.in/urfave/cli.v1"
 )
 

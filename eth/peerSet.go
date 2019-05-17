@@ -1,8 +1,8 @@
 package eth
 
 import (
-	"github.com/ethereumproject/go-ethereum/common"
-	"github.com/ethereumproject/go-ethereum/p2p"
+	"github.com/haihongs/go-ethereum/common"
+	"github.com/haihongs/go-ethereum/p2p"
 	"math/big"
 	"sync"
 )
